@@ -1,6 +1,4 @@
 
-### Author: Xi Zhang
-### Jan 26th, 2022
 
 - isoform2one - this script takes the alternative splicing transcripts to the # primary one and return with the primary protein sequence.
 
