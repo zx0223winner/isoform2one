@@ -4,4 +4,4 @@
 
 - Usage: isoform2one.sh <NCBI_tabular> <NCBI_fasta> <"Output">
   
-- Example: ./isoform2one.sh proteins_4_380024.csv GCF_000001735.4_TAIR10.1_protein.faa out.fa
+- Example: ./isoform2one.sh proteins_4_380024.csv GCF_000001735.4_TAIR10.1_protein.faa primary_protein.fa
